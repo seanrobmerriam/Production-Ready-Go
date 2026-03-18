@@ -99,24 +99,6 @@ If you want to build software that is understandable, diagnosable, and robust, G
 
 This repository is for readers of **Production-Ready Go**.
 
-You can use it to:
-
-- Access the free ebook
-- Follow along with examples and exercises
-- Track companion code and chapter resources
-- Explore production-grade Go practices in a structured way
-
-## Repository contents
-
-Depending on how you organize this repo, you may include:
-
-- `/book` — the ebook files
-- `/examples` — chapter example code
-- `/exercises` — practice exercises and solutions
-- `/assets` — cover images and supporting graphics
-- `/chapters` — supplemental chapter resources
-- `/references` — additional reading and tooling links
-
 ## Suggested reading approach
 
 To get the most value from the book:
@@ -132,10 +114,6 @@ To get the most value from the book:
 **Sean R. Merriam** writes about practical software engineering with an emphasis on reliability, maintainability, and production readiness.
 
 ## License / usage
-
-Please add the license or usage terms you want for distribution of the ebook and repository contents.
-
----
 
 If this book helps you, consider starring the repository and sharing it with other Go developers.
 
