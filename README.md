@@ -138,3 +138,5 @@ Please add the license or usage terms you want for distribution of the ebook and
 ---
 
 If this book helps you, consider starring the repository and sharing it with other Go developers.
+
+<a href="https://github.com/seanrobmerriam/Production-Ready-Go/">Production Ready Go</a> © 2026 by <a href="https://seanmerriam.com">Sean Robert Merriam</a> is licensed under <a href="https://creativecommons.org/licenses/by-nc-nd/4.0/">Creative Commons Attribution-NonCommercial-NoDerivatives 4.0 International</a>
