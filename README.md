@@ -1,3 +1,5 @@
+<img width="363" height="553" alt="image" src="https://github.com/user-attachments/assets/ccdd5f71-87c2-4793-8b95-ac54b0f95084" />
+
 # Production-Ready Go
 
 **Patterns and Practices for Shipping Reliable Software**  
